@@ -196,3 +196,10 @@ Ctrl + C                     # Остановить процесс
 ---
 
 > ✉️ Если возникли ошибки подключения к БД — проверьте, что PostgreSQL запущен и доступен по адресу `localhost:5432`, либо используйте Docker.
+
+---
+
+## 👤 Автор
+
+- **Alexiisssss**  
+  [![GitHub: Alexiisssss](https://img.shields.io/badge/GitHub-Alexiisssss-181717?style=flat-square&logo=github)](https://github.com/Alexiisssss)
