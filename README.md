@@ -132,7 +132,7 @@ services:
 ## 🚀 Клонирование и запуск
 
 ```bash
-git clone https://github.com/yourname/subscription-service.git
+git clone https://github.com/Alexiisssss/subscription-service.git
 cd subscription-service
 mvn clean install
 docker-compose up --build
